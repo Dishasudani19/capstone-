@@ -27,10 +27,10 @@ pip install base64
 
 basic window 
 
-![window](https://github.com/yaswanthteja/-MessageEncrypter-Decrypter/blob/main/window.png)
+![window](https://github.com/dishasudani01/massage_encrypt_decrypt/window.png)
 
 Encryption
-![Encrypt](https://github.com/yaswanthteja/-MessageEncrypter-Decrypter/blob/main/Encrypt.png)
+![Encrypt](https://github.com/dishasudani01/massage_encrypt_decrypt/encrypt.jpeg)
 
 Decryption
-![Decryption](https://github.com/yaswanthteja/-MessageEncrypter-Decrypter/blob/main/Decrypt.png)
+![Decryption](https://github.com/dishasudani01/massage_encrypt_decrypt/decrypt.jpeg)
